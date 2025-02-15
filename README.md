@@ -73,7 +73,7 @@ python main.py
 
 3. Gitee仓库仅用作同步，不要在那里开issue
 
-## Todo
+## Todo:
 
 - [ ] 常用功能
 - [x] 图形化界面
